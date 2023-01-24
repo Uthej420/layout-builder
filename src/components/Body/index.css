@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  justify-content: center;
+}
+
+.inpputs-container {
+}
+
+.leftNavbarMenu-container {
+  background-color: #e2e8f0;
+  color: #64748b;
+  padding: 10px;
+}
+
+.rightNavbarMenu-container {
+  background-color: #e2e8f0;
+  color: #64748b;
+  padding: 10px;
+}
+
+.content-container {
+  background-color: #f1f5f9;
+}
